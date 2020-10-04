@@ -34,7 +34,6 @@ C:\Users\User\Downloads\git-prueba-Master\TP1 - Martín Soñez - 2C\Entidades\ob
 C:\Users\User\Downloads\git-prueba-Master\TP1 - Martín Soñez - 2C\Entidades\obj\Debug\Entidades.pdb
 C:\Users\User\Desktop\TP1 - 2C - Martín Soñez\TP1 - Martín Soñez - 2C\Entidades\bin\Debug\Entidades.dll
 C:\Users\User\Desktop\TP1 - 2C - Martín Soñez\TP1 - Martín Soñez - 2C\Entidades\bin\Debug\Entidades.pdb
-C:\Users\User\Desktop\TP1 - 2C - Martín Soñez\TP1 - Martín Soñez - 2C\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
 C:\Users\User\Desktop\TP1 - 2C - Martín Soñez\TP1 - Martín Soñez - 2C\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\TP1 - 2C - Martín Soñez\TP1 - Martín Soñez - 2C\Entidades\obj\Debug\Entidades.dll
 C:\Users\User\Desktop\TP1 - 2C - Martín Soñez\TP1 - Martín Soñez - 2C\Entidades\obj\Debug\Entidades.pdb
